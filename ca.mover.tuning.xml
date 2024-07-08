@@ -27,6 +27,7 @@ Only run when cache space is getting low and filter files to move according to a
         - Fix where sometimes mover would not run to mover.old scrip (Swarles)
         - Log if "share.cfg" doesn't exists to help trouble shooting (Swarles)
         - Check for ca.mover.tuning.cfg file and additional logging. (Swarles)
+</Changes>
 <Support>https://forums.unraid.net/topic/70783-plugin-mover-tuning/</Support>
 <Icon>https://raw.githubusercontent.com/R3yn4ld/ca.mover.tuning/master/source/ca.mover.tuning/usr/local/emhttp/plugins/ca.mover.tuning/images/ca.mover.tuning.png</Icon>
 </Containers>
